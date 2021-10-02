@@ -1,0 +1,1 @@
+alert("ALERT ! external Java script is used here");
